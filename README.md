@@ -11,6 +11,6 @@ I am an undergraduate student at the University of Peradeniya, currently studyin
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberry-pi&logoColor=white) ![Multisim](https://img.shields.io/badge/-Multisim-007ACC?logo=ni&logoColor=white) ![Proteus](https://img.shields.io/badge/-Proteus-8A2BE2?logo=proteus&logoColor=white) ![Altium](https://img.shields.io/badge/-Altium-008080?logo=altium&logoColor=white)
 
 ## 📫 How to reach me
-- [Gmail](thilinawakkumbura2@gmail.com)
-- [Instagram](https://www.instagram.com/thilina_hasith)
+- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](thilinawakkumbura2@gmail.com)
+- [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/thilina_hasith)
 
