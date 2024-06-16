@@ -14,4 +14,5 @@ I am an undergraduate student at the University of Peradeniya, currently studyin
 - [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat-square)](thilinawakkumbura2@gmail.com)
 - [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/thilina_hasith)
 - [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat-square)](https://www.facebook.com/thilina.wakkumbura)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/thilina-wakkumbura)
 
